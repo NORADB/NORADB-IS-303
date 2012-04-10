@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, IS303AndroidSPLSActivity!</string>
+    <string name="app_name">IS303AndroidSPLS</string>
+    <string name="navn">InsertNames</string>
+    <string name="type">test</string>
+    <string name="brukerID">BrukerID</string>
+    <string name="modulID">ModulID</string>
+    <string name="antOppgaver">AntallOppgaver</string>
+
+</resources>
